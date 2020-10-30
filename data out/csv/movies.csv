@@ -1,0 +1,101 @@
+movie_title,color,director_name,num_critic_for_reviews,duration,gross,num_user_for_reviews,country,cotent_rating,budget,title_year,imdb_score,genre
+Avatar ,Color,James Cameron,723.0,178.0,760505847.0,3054.0,USA,PG-13,237000000.0,2009.0,7.9,Action
+Pirates of the Caribbean: At World's End ,Color,Gore Verbinski,302.0,169.0,309404152.0,1238.0,USA,PG-13,300000000.0,2007.0,7.1,Action
+Spectre ,Color,Sam Mendes,602.0,148.0,200074175.0,994.0,UK,PG-13,245000000.0,2015.0,6.8,Action
+The Dark Knight Rises ,Color,Christopher Nolan,813.0,164.0,448130642.0,2701.0,USA,PG-13,250000000.0,2012.0,8.5,Action
+Star Wars: Episode VII - The Force Awakens             ,Color,Doug Walker,,,238347663.76288658,,,,,,7.1,Documentary
+John Carter ,Color,Andrew Stanton,462.0,132.0,73058679.0,738.0,USA,PG-13,263700000.0,2012.0,6.6,Action
+Spider-Man 3 ,Color,Sam Raimi,392.0,156.0,336530303.0,1902.0,USA,PG-13,258000000.0,2007.0,6.2,Action
+Tangled ,Color,Nathan Greno,324.0,100.0,200807262.0,387.0,USA,PG,260000000.0,2010.0,7.8,Adventure
+Avengers: Age of Ultron ,Color,Joss Whedon,635.0,141.0,458991599.0,1117.0,USA,PG-13,250000000.0,2015.0,7.5,Action
+Harry Potter and the Half-Blood Prince ,Color,David Yates,375.0,153.0,301956980.0,973.0,UK,PG,250000000.0,2009.0,7.5,Adventure
+Batman v Superman: Dawn of Justice ,Color,Zack Snyder,673.0,183.0,330249062.0,3018.0,USA,PG-13,250000000.0,2016.0,6.9,Action
+Superman Returns ,Color,Bryan Singer,434.0,169.0,200069408.0,2367.0,USA,PG-13,209000000.0,2006.0,6.1,Action
+Quantum of Solace ,Color,Marc Forster,403.0,106.0,168368427.0,1243.0,UK,PG-13,200000000.0,2008.0,6.7,Action
+Pirates of the Caribbean: Dead Man's Chest ,Color,Gore Verbinski,313.0,151.0,423032628.0,1832.0,USA,PG-13,225000000.0,2006.0,7.3,Action
+The Lone Ranger ,Color,Gore Verbinski,450.0,150.0,89289910.0,711.0,USA,PG-13,215000000.0,2013.0,6.5,Action
+Man of Steel ,Color,Zack Snyder,733.0,143.0,291021565.0,2536.0,USA,PG-13,225000000.0,2013.0,7.2,Action
+The Chronicles of Narnia: Prince Caspian ,Color,Andrew Adamson,258.0,150.0,141614023.0,438.0,USA,PG,225000000.0,2008.0,6.6,Action
+The Avengers ,Color,Joss Whedon,703.0,173.0,623279547.0,1722.0,USA,PG-13,220000000.0,2012.0,8.1,Action
+Pirates of the Caribbean: On Stranger Tides ,Color,Rob Marshall,448.0,136.0,241063875.0,484.0,USA,PG-13,250000000.0,2011.0,6.7,Action
+Men in Black 3 ,Color,Barry Sonnenfeld,451.0,106.0,179020854.0,341.0,USA,PG-13,225000000.0,2012.0,6.8,Action
+The Hobbit: The Battle of the Five Armies ,Color,Peter Jackson,422.0,164.0,255108370.0,802.0,New Zealand,PG-13,250000000.0,2014.0,7.5,Adventure
+The Amazing Spider-Man ,Color,Marc Webb,599.0,153.0,262030663.0,1225.0,USA,PG-13,230000000.0,2012.0,7.0,Action
+Robin Hood ,Color,Ridley Scott,343.0,156.0,105219735.0,546.0,USA,PG-13,200000000.0,2010.0,6.7,Action
+The Hobbit: The Desolation of Smaug ,Color,Peter Jackson,509.0,186.0,258355354.0,951.0,USA,PG-13,225000000.0,2013.0,7.9,Adventure
+The Golden Compass ,Color,Chris Weitz,251.0,113.0,70083519.0,666.0,USA,PG-13,180000000.0,2007.0,6.1,Adventure
+King Kong ,Color,Peter Jackson,446.0,201.0,218051260.0,2618.0,New Zealand,PG-13,207000000.0,2005.0,7.2,Action
+Titanic ,Color,James Cameron,315.0,194.0,658672302.0,2528.0,USA,PG-13,200000000.0,1997.0,7.7,Drama
+Captain America: Civil War ,Color,Anthony Russo,516.0,147.0,407197282.0,1022.0,USA,PG-13,250000000.0,2016.0,8.2,Action
+Battleship ,Color,Peter Berg,377.0,131.0,65173160.0,751.0,USA,PG-13,209000000.0,2012.0,5.9,Action
+Jurassic World ,Color,Colin Trevorrow,644.0,124.0,652177271.0,1290.0,USA,PG-13,150000000.0,2015.0,7.0,Action
+Skyfall ,Color,Sam Mendes,750.0,143.0,304360277.0,1498.0,UK,PG-13,200000000.0,2012.0,7.8,Action
+Spider-Man 2 ,Color,Sam Raimi,300.0,135.0,373377893.0,1303.0,USA,PG-13,200000000.0,2004.0,7.3,Action
+Iron Man 3 ,Color,Shane Black,608.0,195.0,408992272.0,1187.0,USA,PG-13,200000000.0,2013.0,7.2,Action
+Alice in Wonderland ,Color,Tim Burton,451.0,108.0,334185206.0,736.0,USA,PG,200000000.0,2010.0,6.5,Adventure
+X-Men: The Last Stand ,Color,Brett Ratner,334.0,104.0,234360014.0,1912.0,Canada,PG-13,210000000.0,2006.0,6.8,Action
+Monsters University ,Color,Dan Scanlon,376.0,104.0,268488329.0,265.0,USA,G,200000000.0,2013.0,7.3,Adventure
+Transformers: Revenge of the Fallen ,Color,Michael Bay,366.0,150.0,402076689.0,1439.0,USA,PG-13,200000000.0,2009.0,6.0,Action
+Transformers: Age of Extinction ,Color,Michael Bay,378.0,165.0,245428137.0,918.0,USA,PG-13,210000000.0,2014.0,5.7,Action
+Oz the Great and Powerful ,Color,Sam Raimi,525.0,130.0,234903076.0,511.0,USA,PG,215000000.0,2013.0,6.4,Adventure
+The Amazing Spider-Man 2 ,Color,Marc Webb,495.0,142.0,202853933.0,1067.0,USA,PG-13,200000000.0,2014.0,6.7,Action
+TRON: Legacy ,Color,Joseph Kosinski,469.0,125.0,172051787.0,665.0,USA,PG,170000000.0,2010.0,6.8,Action
+Cars 2 ,Color,John Lasseter,304.0,106.0,191450875.0,283.0,USA,G,200000000.0,2011.0,6.3,Adventure
+Green Lantern ,Color,Martin Campbell,436.0,123.0,116593191.0,550.0,USA,PG-13,200000000.0,2011.0,5.6,Action
+Toy Story 3 ,Color,Lee Unkrich,453.0,103.0,414984497.0,733.0,USA,G,200000000.0,2010.0,8.3,Adventure
+Terminator Salvation ,Color,McG,422.0,118.0,125320003.0,974.0,USA,PG-13,200000000.0,2009.0,6.6,Action
+Furious 7 ,Color,James Wan,424.0,140.0,350034110.0,657.0,USA,PG-13,190000000.0,2015.0,7.2,Action
+World War Z ,Color,Marc Forster,654.0,123.0,202351611.0,995.0,USA,PG-13,190000000.0,2013.0,7.0,Action
+X-Men: Days of Future Past ,Color,Bryan Singer,539.0,149.0,233914986.0,752.0,USA,PG-13,200000000.0,2014.0,8.0,Action
+Star Trek Into Darkness ,Color,J.J. Abrams,590.0,132.0,228756232.0,1171.0,USA,PG-13,190000000.0,2013.0,7.8,Action
+Jack the Giant Slayer ,Color,Bryan Singer,338.0,114.0,65171860.0,205.0,USA,PG-13,195000000.0,2013.0,6.3,Adventure
+The Great Gatsby ,Color,Baz Luhrmann,490.0,143.0,144812796.0,753.0,Australia,PG-13,105000000.0,2013.0,7.3,Drama
+Prince of Persia: The Sands of Time ,Color,Mike Newell,306.0,116.0,90755643.0,453.0,USA,PG-13,200000000.0,2010.0,6.6,Action
+Pacific Rim ,Color,Guillermo del Toro,575.0,131.0,101785482.0,1106.0,USA,PG-13,190000000.0,2013.0,7.0,Action
+Transformers: Dark of the Moon ,Color,Michael Bay,428.0,154.0,352358779.0,899.0,USA,PG-13,195000000.0,2011.0,6.3,Action
+Indiana Jones and the Kingdom of the Crystal Skull ,Color,Steven Spielberg,470.0,122.0,317011114.0,2054.0,USA,PG-13,185000000.0,2008.0,6.2,Action
+The Good Dinosaur ,Color,Peter Sohn,298.0,93.0,123070338.0,345.0,USA,PG,,2015.0,6.8,Adventure
+Brave ,Color,Mark Andrews,488.0,93.0,237282182.0,428.0,USA,PG,185000000.0,2012.0,7.2,Adventure
+Star Trek Beyond ,Color,Justin Lin,322.0,122.0,130468626.0,432.0,USA,PG-13,185000000.0,2016.0,7.5,Action
+WALL·E ,Color,Andrew Stanton,421.0,98.0,223806889.0,1043.0,USA,G,180000000.0,2008.0,8.4,Adventure
+Rush Hour 3 ,Color,Brett Ratner,162.0,91.0,140080850.0,221.0,USA,PG-13,140000000.0,2007.0,6.2,Action
+2012 ,Color,Roland Emmerich,367.0,158.0,166112167.0,1055.0,USA,PG-13,200000000.0,2009.0,5.8,Action
+A Christmas Carol ,Color,Robert Zemeckis,240.0,96.0,137850096.0,249.0,USA,PG,200000000.0,2009.0,6.8,Animation
+Jupiter Ascending ,Color,Lana Wachowski,384.0,127.0,47375327.0,720.0,USA,PG-13,176000000.0,2015.0,5.4,Action
+The Legend of Tarzan ,Color,David Yates,248.0,110.0,124051759.0,239.0,USA,PG-13,180000000.0,2016.0,6.6,Action
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe ",Color,Andrew Adamson,284.0,150.0,291709845.0,1463.0,USA,PG,180000000.0,2005.0,6.9,Adventure
+X-Men: Apocalypse ,Color,Bryan Singer,396.0,144.0,154985087.0,622.0,USA,PG-13,178000000.0,2016.0,7.3,Action
+The Dark Knight ,Color,Christopher Nolan,645.0,152.0,533316061.0,4667.0,USA,PG-13,185000000.0,2008.0,9.0,Action
+Up ,Color,Pete Docter,408.0,96.0,292979556.0,704.0,USA,PG,175000000.0,2009.0,8.3,Adventure
+Monsters vs. Aliens ,Color,Rob Letterman,219.0,94.0,198332128.0,187.0,USA,PG,175000000.0,2009.0,6.5,Action
+Iron Man ,Color,Jon Favreau,486.0,126.0,318298180.0,1055.0,USA,PG-13,140000000.0,2008.0,7.9,Action
+Hugo ,Color,Martin Scorsese,682.0,126.0,73820094.0,678.0,USA,PG,170000000.0,2011.0,7.5,Adventure
+Wild Wild West ,Color,Barry Sonnenfeld,85.0,106.0,113745408.0,648.0,USA,PG-13,170000000.0,1999.0,4.8,Action
+The Mummy: Tomb of the Dragon Emperor ,Color,Rob Cohen,264.0,112.0,102176165.0,501.0,USA,PG-13,145000000.0,2008.0,5.2,Action
+Suicide Squad ,Color,David Ayer,418.0,123.0,161087183.0,971.0,USA,PG-13,175000000.0,2016.0,6.9,Action
+Evan Almighty ,Color,Tom Shadyac,186.0,96.0,100289690.0,257.0,USA,PG,175000000.0,2007.0,5.4,Comedy
+Edge of Tomorrow ,Color,Doug Liman,585.0,113.0,100189501.0,741.0,USA,PG-13,178000000.0,2014.0,7.9,Action
+Waterworld ,Color,Kevin Reynolds,91.0,176.0,88246220.0,309.0,USA,PG-13,175000000.0,1995.0,6.1,Action
+G.I. Joe: The Rise of Cobra ,Color,Stephen Sommers,250.0,118.0,150167630.0,534.0,USA,PG-13,175000000.0,2009.0,5.8,Action
+Inside Out ,Color,Pete Docter,536.0,95.0,356454367.0,773.0,USA,PG,175000000.0,2015.0,8.3,Adventure
+The Jungle Book ,Color,Jon Favreau,370.0,106.0,362645141.0,398.0,UK,PG,175000000.0,2016.0,7.8,Adventure
+Iron Man 2 ,Color,Jon Favreau,453.0,124.0,312057433.0,723.0,USA,PG-13,200000000.0,2010.0,7.0,Action
+Snow White and the Huntsman ,Color,Rupert Sanders,416.0,132.0,155111815.0,710.0,USA,PG-13,170000000.0,2012.0,6.1,Action
+Maleficent ,Color,Robert Stromberg,401.0,97.0,241407328.0,634.0,USA,PG,180000000.0,2014.0,7.0,Action
+Dawn of the Planet of the Apes ,Color,Matt Reeves,521.0,130.0,208543795.0,620.0,USA,PG-13,170000000.0,2014.0,7.6,Action
+The Lovers ,Color,Roland Joffé,10.0,109.0,238347663.76288658,15.0,Belgium,R,,2015.0,4.5,Action
+47 Ronin ,Color,Carl Rinsch,218.0,128.0,38297305.0,324.0,USA,PG-13,175000000.0,2013.0,6.3,Action
+Captain America: The Winter Soldier ,Color,Anthony Russo,576.0,136.0,259746958.0,742.0,USA,PG-13,170000000.0,2014.0,7.8,Action
+Shrek Forever After ,Color,Mike Mitchell,226.0,93.0,238371987.0,173.0,USA,PG,165000000.0,2010.0,6.4,Adventure
+Tomorrowland ,Color,Brad Bird,443.0,130.0,93417865.0,497.0,USA,PG,190000000.0,2015.0,6.5,Action
+Big Hero 6 ,Color,Don Hall,384.0,102.0,222487711.0,433.0,USA,PG,165000000.0,2014.0,7.9,Action
+Wreck-It Ralph ,Color,Rich Moore,377.0,101.0,189412677.0,345.0,USA,PG,165000000.0,2012.0,7.8,Adventure
+The Polar Express ,Color,Robert Zemeckis,188.0,100.0,665426.0,444.0,USA,G,165000000.0,2004.0,6.6,Adventure
+Independence Day: Resurgence ,Color,Roland Emmerich,286.0,120.0,102315545.0,520.0,USA,PG-13,165000000.0,2016.0,5.5,Action
+How to Train Your Dragon ,Color,Dean DeBlois,288.0,98.0,217387997.0,492.0,USA,PG,165000000.0,2010.0,8.2,Adventure
+Terminator 3: Rise of the Machines ,Color,Jonathan Mostow,280.0,109.0,150350192.0,1676.0,USA,R,200000000.0,2003.0,6.4,Action
+Guardians of the Galaxy ,Color,James Gunn,653.0,121.0,333130696.0,1097.0,USA,PG-13,170000000.0,2014.0,8.1,Action
+Interstellar ,Color,Christopher Nolan,712.0,169.0,187991439.0,2725.0,USA,PG-13,165000000.0,2014.0,8.6,Adventure
+Inception ,Color,Christopher Nolan,642.0,148.0,292568851.0,2803.0,USA,PG-13,160000000.0,2010.0,8.8,Action
+Godzilla Resurgence ,Color,Hideaki Anno,1.0,120.0,238347663.76288658,13.0,Japan,,,2016.0,8.2,Action
+The Hobbit: An Unexpected Journey ,Color,Peter Jackson,645.0,182.0,303001229.0,1367.0,USA,PG-13,180000000.0,2012.0,7.9,Adventure
