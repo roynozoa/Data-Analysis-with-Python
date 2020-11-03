@@ -6,6 +6,6 @@
     "workbench.iconTheme": "material-icon-theme",
     "editor.formatOnSave": true,
     "workbench.colorTheme": "Dracula",
-    "editor.fontFamily": "Lucida Sans Typewriter, Consolas, 'Courier New', monospace",
+    "editor.fontFamily": "Hack",
     
 }
