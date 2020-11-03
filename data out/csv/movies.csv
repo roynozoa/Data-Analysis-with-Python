@@ -1,9 +1,9 @@
-movie_title,color,director_name,num_critic_for_reviews,duration,gross,num_user_for_reviews,country,cotent_rating,budget,title_year,imdb_score,genre
+movie_title,color,director_name,num_critic_for_reviews,duration,gross,num_user_for_reviews,country,content_rating,budget,title_year,imdb_score,genre
 Avatar ,Color,James Cameron,723.0,178.0,760505847.0,3054.0,USA,PG-13,237000000.0,2009.0,7.9,Action
 Pirates of the Caribbean: At World's End ,Color,Gore Verbinski,302.0,169.0,309404152.0,1238.0,USA,PG-13,300000000.0,2007.0,7.1,Action
 Spectre ,Color,Sam Mendes,602.0,148.0,200074175.0,994.0,UK,PG-13,245000000.0,2015.0,6.8,Action
 The Dark Knight Rises ,Color,Christopher Nolan,813.0,164.0,448130642.0,2701.0,USA,PG-13,250000000.0,2012.0,8.5,Action
-Star Wars: Episode VII - The Force Awakens             ,Color,Doug Walker,,,238347663.76288658,,,,,,7.1,Documentary
+Star Wars: Episode VII - The Force Awakens             ,Color,Doug Walker,813.0,131.53535353535352,238347663.76288658,4667.0,,,195996875.0,,7.1,Documentary
 John Carter ,Color,Andrew Stanton,462.0,132.0,73058679.0,738.0,USA,PG-13,263700000.0,2012.0,6.6,Action
 Spider-Man 3 ,Color,Sam Raimi,392.0,156.0,336530303.0,1902.0,USA,PG-13,258000000.0,2007.0,6.2,Action
 Tangled ,Color,Nathan Greno,324.0,100.0,200807262.0,387.0,USA,PG,260000000.0,2010.0,7.8,Adventure
@@ -54,7 +54,7 @@ Prince of Persia: The Sands of Time ,Color,Mike Newell,306.0,116.0,90755643.0,4
 Pacific Rim ,Color,Guillermo del Toro,575.0,131.0,101785482.0,1106.0,USA,PG-13,190000000.0,2013.0,7.0,Action
 Transformers: Dark of the Moon ,Color,Michael Bay,428.0,154.0,352358779.0,899.0,USA,PG-13,195000000.0,2011.0,6.3,Action
 Indiana Jones and the Kingdom of the Crystal Skull ,Color,Steven Spielberg,470.0,122.0,317011114.0,2054.0,USA,PG-13,185000000.0,2008.0,6.2,Action
-The Good Dinosaur ,Color,Peter Sohn,298.0,93.0,123070338.0,345.0,USA,PG,,2015.0,6.8,Adventure
+The Good Dinosaur ,Color,Peter Sohn,298.0,93.0,123070338.0,345.0,USA,PG,195996875.0,2015.0,6.8,Adventure
 Brave ,Color,Mark Andrews,488.0,93.0,237282182.0,428.0,USA,PG,185000000.0,2012.0,7.2,Adventure
 Star Trek Beyond ,Color,Justin Lin,322.0,122.0,130468626.0,432.0,USA,PG-13,185000000.0,2016.0,7.5,Action
 WALL·E ,Color,Andrew Stanton,421.0,98.0,223806889.0,1043.0,USA,G,180000000.0,2008.0,8.4,Adventure
@@ -83,7 +83,7 @@ Iron Man 2 ,Color,Jon Favreau,453.0,124.0,312057433.0,723.0,USA,PG-13,200000000
 Snow White and the Huntsman ,Color,Rupert Sanders,416.0,132.0,155111815.0,710.0,USA,PG-13,170000000.0,2012.0,6.1,Action
 Maleficent ,Color,Robert Stromberg,401.0,97.0,241407328.0,634.0,USA,PG,180000000.0,2014.0,7.0,Action
 Dawn of the Planet of the Apes ,Color,Matt Reeves,521.0,130.0,208543795.0,620.0,USA,PG-13,170000000.0,2014.0,7.6,Action
-The Lovers ,Color,Roland Joffé,10.0,109.0,238347663.76288658,15.0,Belgium,R,,2015.0,4.5,Action
+The Lovers ,Color,Roland Joffé,10.0,109.0,238347663.76288658,15.0,Belgium,R,195996875.0,2015.0,4.5,Action
 47 Ronin ,Color,Carl Rinsch,218.0,128.0,38297305.0,324.0,USA,PG-13,175000000.0,2013.0,6.3,Action
 Captain America: The Winter Soldier ,Color,Anthony Russo,576.0,136.0,259746958.0,742.0,USA,PG-13,170000000.0,2014.0,7.8,Action
 Shrek Forever After ,Color,Mike Mitchell,226.0,93.0,238371987.0,173.0,USA,PG,165000000.0,2010.0,6.4,Adventure
@@ -97,5 +97,5 @@ Terminator 3: Rise of the Machines ,Color,Jonathan Mostow,280.0,109.0,150350192
 Guardians of the Galaxy ,Color,James Gunn,653.0,121.0,333130696.0,1097.0,USA,PG-13,170000000.0,2014.0,8.1,Action
 Interstellar ,Color,Christopher Nolan,712.0,169.0,187991439.0,2725.0,USA,PG-13,165000000.0,2014.0,8.6,Adventure
 Inception ,Color,Christopher Nolan,642.0,148.0,292568851.0,2803.0,USA,PG-13,160000000.0,2010.0,8.8,Action
-Godzilla Resurgence ,Color,Hideaki Anno,1.0,120.0,238347663.76288658,13.0,Japan,,,2016.0,8.2,Action
+Godzilla Resurgence ,Color,Hideaki Anno,1.0,120.0,238347663.76288658,13.0,Japan,,195996875.0,2016.0,8.2,Action
 The Hobbit: An Unexpected Journey ,Color,Peter Jackson,645.0,182.0,303001229.0,1367.0,USA,PG-13,180000000.0,2012.0,7.9,Adventure
