@@ -7,4 +7,4 @@ Some of the data and contents in this repository:
 - [DataCamp](https://www.datacamp.com/) online course
 - [IBM Data Science on Coursera](https://www.coursera.org/professional-certificates/ibm-data-science)
 
-Muhammad Adisatriyo Pratama - October 2020
+Muhammad Adisatriyo Pratama - 2020
