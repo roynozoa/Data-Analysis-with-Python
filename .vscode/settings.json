@@ -5,7 +5,8 @@
 
     "workbench.iconTheme": "material-icon-theme",
     "editor.formatOnSave": true,
-    "workbench.colorTheme": "Tokyo Night Storm",
+    "workbench.colorTheme": "Tokyo Night",
     "editor.fontFamily": "Hack",
+    "python.pythonPath": "C:\\Users\\Roy\\anaconda3\\python.exe",
     
 }
